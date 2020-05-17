@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Home Workout</string>
+    <string name="img_des">img_des</string>
+    <string name="_24x7_active"> 24x7 Active</string>
+    <string name="api_key">Your Api key</string>
+    <string name="home_workout">Home Workout</string>
+    <string name="loading">loading</string>
+    <string name="Done">Done</string>
+    <string name="saved">saved</string>
+    <string name="favorite_video">Favorite videos</string>
+    <string name="pro_tip">Pro Tip :</string>
+    <string name="save">save</string>
+    <string name="internet_error">Connect to internet</string>
+    <string name="glide_error">glide unable to load image</string>
+    <string name="favorite">favorite</string>
+    <string name="full_body_workout">Full Body Workout</string>
+    <string name="arms_workout">Arms Workout</string>
+    <string name="abs_workout">Abs Workout</string>
+    <string name="back_and_shoulder_workout">Back and Shoulder Workout</string>
+    <string name="upper_body_workout">Upper Body Workout</string>
+    <string name="lower_body_workout">Lower Body Workout</string>
+    <string name="access_fav_vid">Access your favorite videos</string>
+    <string name="just_click_on_btn">Just Click on below button</string>
+</resources>
